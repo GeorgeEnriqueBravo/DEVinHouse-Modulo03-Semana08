@@ -8,11 +8,9 @@ Para visualizar os exercícios, <a href="https://github.com/GeorgeEnriqueBravo/D
 </a>
 para baixa-los. <br>
 
-Após o download, extraia os arquivos zipados e abra o arquivo `exercicios_Modulo03_Semana08.sql` e também todos os arquivos de `Procedures`,  localizado na pasta ExerciciosM03S08 utilizando o `Oracle SQL Develover`. Caso você não possua ele, você pode baixar ele grátis diretamente do site oficial <a href="https://www.oracle.com/database/sqldeveloper/technologies/download/" target="_blank">
+Após o download, extraia os arquivos zipados e abra o arquivo `exercicios_Modulo03_Semana08.sql`,  localizado na pasta ExerciciosM03S08 utilizando o `Oracle SQL Develover`. Caso você não possua ele, você pode baixar ele grátis diretamente do site oficial <a href="https://www.oracle.com/database/sqldeveloper/technologies/download/" target="_blank">
     clicando aqui
 </a>.
-
-Execute todos os arquivos de Procedures para criá-los. Após isso você pode ir verificando a execução de cada exercício individualmente pelo arquivo exercicios_Modulo03_Semana08.sql.
 
 ---
 
